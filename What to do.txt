@@ -1,0 +1,31 @@
+Things to Do.
+
+- Design Website with html G
+- Link website with repo G
+- get login system working
+- get game interface working
+- set up database G
+- set up small game (min of 2)
+
+public
+Home
+Our Goal
+Games
+Contact
+
+child
+Home
+Game
+Stats
+Leaderboard
+
+parent
+Home
+Game (optional)
+Stats (Child/s and own is applicble)
+Leaderboard (Child/s and own is applicble)
+
+teacher
+Home 
+Stats (Students)
+leaderboard (relitive information)
